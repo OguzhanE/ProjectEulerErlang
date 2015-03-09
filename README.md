@@ -1,2 +1,2 @@
 # ProjectEulerErlang 
-my solutions for project euler problems in Erlang
+exercises for improving my erlang programming skills
