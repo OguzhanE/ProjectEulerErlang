@@ -1,8 +1,8 @@
 -module (sol2).
--export ([result/0]).
+-export ([answer/0]).
 
-%% result: 4613732
-result()->
+%% answer: 4613732
+answer()->
 	solve().
 
 solve()->
